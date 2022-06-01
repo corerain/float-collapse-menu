@@ -1,0 +1,36 @@
+.text-c {
+  text-align: center;
+}
+.text-r {
+  text-align: right;
+}
+.text-l {
+  text-align: left;
+}
+.translate-c {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.translate-v-c {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.flex {
+  display: flex;
+}
+.flex-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-v-c {
+  display: flex;
+  align-items: center;
+}
+.flex-j-c {
+  display: flex;
+  justify-content: center;
+}
