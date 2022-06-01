@@ -17,6 +17,8 @@ FloatCollapseMenu 是vue2.x组件，仿Chrome浏览器自动折叠下拉菜单�
 
 ## 预览
 
+https://corerain.github.io/float-collapse-menu/
+
 <p align="center">
     <img alt="FloatCollapseMenu demo" width="100%" src="./images/example.png">
 </p>

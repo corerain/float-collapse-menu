@@ -13,6 +13,10 @@ FloatCollapseMenu is a vue2.x component that imitates the Chrome browser to auto
 
 ## Feature
 
+## Live Demos
+
+https://corerain.github.io/float-collapse-menu/
+
 - **vue**：vue2.x组件
 
 ## For Vue.js 2.x
