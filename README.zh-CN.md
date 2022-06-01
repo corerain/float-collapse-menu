@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://www.corerain.com/solution?audience=2955440&bd_vid=10427434001647562028"> <img alt="Corerain Logo" width="200" height="200" src="./images/Logo_Corerain.png"> </a> <br> <br>
+<div align="center"> <a href="https://github.com/corerain/float-collapse-menu"> <img alt="Corerain Logo" width="200" height="200" src="./images/Logo_Corerain.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 
